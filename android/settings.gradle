@@ -1,0 +1,3 @@
+rootProject.name = 'AngelHack2018'
+
+include ':app'
