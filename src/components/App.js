@@ -87,7 +87,7 @@ class App extends React.Component {
     }
     return (
       <Animated.View style={[{ left: this.titleXPos }, styles.container]}>
-        <Text style={styles.header}>Bakesale</Text>
+        <Text style={styles.header}>AngelHack2018</Text>
       </Animated.View>
     );
   }
