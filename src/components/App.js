@@ -77,7 +77,7 @@ class App extends React.Component {
     if (dealsToDisplay.length > 0) {
       return (
         <View style={styles.main}>
-          <SearchBar
+          <SearchBar1
             searchDeals={this.searchDeals}
             initialSearchTerm={this.state.activeSearchTerm}
           />
