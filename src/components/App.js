@@ -7,6 +7,7 @@ import {
   Easing,
   Dimensions,
   StyleSheet,
+  KeyboardAvoidingView
 } from 'react-native';
 import ajax from '../ajax';
 import DealList from './DealList';
